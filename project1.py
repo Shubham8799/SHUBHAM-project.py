@@ -1,4 +1,4 @@
-> Shubham Kumar:
+
 print("hello world ! how are you") 
 print("welcome to my world") 
 print("hey what is your name enter below") 
