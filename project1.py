@@ -1,15 +1,16 @@
-print["hello world ! how are you"]
-print["welcome to my world"]
-print["hey what is your name enter below"]
-name = input["what is your name?"]
-print["hello"+ name]
-print["thankyou"+name]
-print["so,"+ name " let's paly a game"]
-print["okhyyy! start"]
-old_age= input["enter your old age:"]
-print["thankyou"+ old_age +name " ohhh nice "]
-print[" i will guess you age after two year"]
-new_age= int[old_age]+2
-print[new_age]
-print["hureeyyyyyyyyy"]
-print["are you happy"]
+> Shubham Kumar:
+print("hello world ! how are you") 
+print("welcome to my world") 
+print("hey what is your name enter below") 
+name = input("what is your name?") 
+print("hello"+ name) 
+print("thankyou"+name) 
+print("so,"+ name " let's paly a game") 
+print("okhyyy! start") 
+old_age= input("enter your old age:") 
+print("thankyou"+ old_age +name " ohhh nice ") 
+print(" i will guess you age after two year") 
+new_age= int(old_age)+2
+print(new_age) 
+print("hureeyyyyyyyyy") 
+print("are you happy")
